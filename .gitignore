@@ -1,0 +1,23 @@
+# Arduino / build artifacts
+build/
+*.bin
+*.elf
+*.map
+*.hex
+.build/
+*.o
+*.a
+
+# Backups
+*.bak
+*.orig
+*.bak_*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local secrets (never commit)
+secrets.h
