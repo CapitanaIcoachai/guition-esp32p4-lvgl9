@@ -163,3 +163,17 @@ why touch and display run together without issue).
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+## See also
+Part of a small collection of **local-first AI** and **ESP32 / maker** tools:
+
+- [sqlite-memory](https://github.com/poerio1985-svg/sqlite-memory) — persistent long-term memory for local LLMs
+- [sqlite-rag](https://github.com/poerio1985-svg/sqlite-rag) — minimal RAG — embeddings + cosine in SQLite, no vector DB
+- [ollama-doctor](https://github.com/poerio1985-svg/ollama-doctor) — find out why Ollama is slow (CPU offload / VRAM)
+- [local-voice-edge](https://github.com/poerio1985-svg/local-voice-edge) — ESP32 voice assistant + local STT→LLM→TTS server
+- [axs15231b-landscape-lvgl](https://github.com/poerio1985-svg/axs15231b-landscape-lvgl) — 3.5" AXS15231B QSPI panel in landscape with LVGL
+- [orcaslicer-cli-cookbook](https://github.com/poerio1985-svg/orcaslicer-cli-cookbook) — OrcaSlicer from the command line + fixes
+
+⭐ If this saved you time, a star helps others find it.
